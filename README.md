@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 I'm currently a uni student studying to be a software engineer. 
+
 Most of my code is written in python. 
+
 I am currently learning C sharp. 
 
 <!--
