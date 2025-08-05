@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm currently a uni student studying to be a software engineer. 
+Most of my code is written in python. 
+I am currently learning C sharp. 
+
 <!--
 **cRanial-dySfunCtion/cRanial-dySfunCtion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
